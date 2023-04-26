@@ -15,21 +15,21 @@ const qBank = [
   },
   {
     question:
-        "I some serious obstacles",
+        "I came up against some serious obstacles",
     answers: ["came up against", "came up", "came up to", "came up opposite"],
     correct: "came up against",
     questionId: "000002"
   },
   {
     question:
-        "I some serious obstacles while doing it",
+        "I came up against some serious obstacles while doing it",
     answers: ["came up against", "came up", "came up opposite", "came up to"],
     correct: "came up against",
     questionId: "001003"
   },
   {
     question:
-        "I some serious difficulties while trying to do it ",
+        "I came up against some serious difficulties while trying to do it ",
     answers: ["came up against", "came up", "came up opposite", "came up to"],
     correct: "came up against",
     questionId: "001004"
@@ -85,7 +85,8 @@ const qBank = [
   },
   {
     question:
-        "As you see, some mistakes were made, but there is no need to dwell on it too much",
+        "As you see, some mistakes were made, " +
+        "but there is no need to dwell on it too much",
     answers: ["dwell on", "dwell", "dwell after", "dwell for"],
     correct: "dwell on",
     questionId: "001012"
@@ -169,7 +170,8 @@ const qBank = [
   },
   {
     question:
-        "It really strikes me that here is still so much uncertainty concerning this issue",
+        "It really strikes me that here is still " +
+        "so much uncertainty concerning this issue",
     answers: ["uncertainty concerning", "Alan Sugar", "Donald Trump", "Bill Gates"],
     correct: "uncertainty concerning",
     questionId: "001024"
@@ -183,7 +185,7 @@ const qBank = [
   },
   {
     question:
-        "On the hand, i'm not quit sure that it's really something worthwhile",
+        "On the one hand, i'm not quit sure that it's really something worthwhile",
     answers: ["quit sure", "Alan Sugar", "Donald Trump", "Bill Gates"],
     correct: "quit sure",
     questionId: "001026"
@@ -260,7 +262,8 @@ const qBank = [
   },
   {
     question:
-        "No doubt, he's made a very meaningful contribution to our society and, surprisingly enough, he isn't going to stop",
+        "No doubt, he's made a very meaningful " +
+        "contribution to our society and, surprisingly enough, he isn't going to stop",
     answers: ["No doubt", "Alan Sugar", "Donald Trump", "Bill Gates"],
     correct: "No doubt",
     questionId: "001037"
@@ -281,7 +284,7 @@ const qBank = [
   },
   {
     question:
-        "Whht i'm trying to say is that we can't ignore this seemingly unimportant detail",
+        "What i'm trying to say is that we can't ignore this seemingly unimportant detail",
     answers: ["What i'm trying to say", "Alan Sugar", "Donald Trump", "Bill Gates"],
     correct: "What i'm trying to say",
     questionId: "001040"
@@ -331,15 +334,15 @@ const qBank = [
   {
     question:
         "As far as my friends are concerned, they're always ready to support me and I really value it",
-    answers: ["As far as ", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "As far as ",
+    answers: ["As far as", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "As far as",
     questionId: "001046"
   },
   {
     question:
         "As far as this video is concerned, it's extremely useful for educational purpose",
-    answers: ["As far as ", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "As far as ",
+    answers: ["As far as", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "As far as",
     questionId: "001047"
   },
   {
