@@ -95,7 +95,7 @@ const qBank = [
     question:
         "All goods were bought up",
     answers: ["bought up", "bought", "bought in", "Bill Gates"],
-    correct: "Thinking ahead",
+    correct: "bought up",
     questionId: "001013"
   },
   {
@@ -299,8 +299,8 @@ const qBank = [
   {
     question:
         "As far as, i'm concerned I've never been interested in it",
-    answers: ["As far as, I'm concerned", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "As far as, I'm concerned",
+    answers: ["interested in", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "interested in",
     questionId: "001042"
   },
   {
@@ -453,7 +453,7 @@ const qBank = [
   },
   {
     question:
-        "I'm afraid that we're running out od time so we need to hurry up",
+        "I'm afraid that we're running out of time so we need to hurry up",
     answers: ["running out of", "Alan Sugar", "Donald Trump", "Bill Gates"],
     correct: "running out of",
     questionId: "001063"
@@ -595,36 +595,36 @@ const qBank = [
   {
     question:
         "I need some time to think it over before making a final decision",
-    answers: ["Think over", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "Think over",
+    answers: ["think it over", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "think it over",
     questionId: "001083"
   },
   {
     question:
         "To tell the truth, i'd like to think it over first",
-    answers: ["Think over", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "Think over",
+    answers: ["think it over", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "think it over",
     questionId: "001084"
   },
   {
     question:
         "Hold on a second",
-    answers: ["hold on", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "hold on",
+    answers: ["Hold on", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "Hold on",
     questionId: "001085"
   },
   {
     question:
         "Hold on a minute",
-    answers: ["hold on", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "hold on",
+    answers: ["Hold on", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "Hold on",
     questionId: "001086"
   },
   {
     question:
         "When i found out the whole truth, i was totaly shoked",
-    answers: ["find out", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "find out",
+    answers: ["found out", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "found out",
     questionId: "001087"
   },
   {
@@ -693,20 +693,20 @@ const qBank = [
   {
     question:
         "I realize that I'll have to do it over",
-    answers: ["Thinking ahead", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "Thinking ahead",
+    answers: ["do it over", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "do it over",
     questionId: "001097"
   },
   {
     question:
         "I realized that I would have to do it over",
-    answers: ["do over", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "do over",
+    answers: ["do it over", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "do it over",
     questionId: "001098"
   },
   {
     question:
-        "I can't keep up with you/ Van you wait a bit?",
+        "I can't keep up with you! Van you wait a bit?",
     answers: ["keep up", "Alan Sugar", "Donald Trump", "Bill Gates"],
     correct: "keep up",
     questionId: "001099"
@@ -819,8 +819,8 @@ const qBank = [
   {
     question:
         "He said that he would wake me up when it was time to leave",
-    answers: ["wake up", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "wake up",
+    answers: ["wake me up", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "wake me up",
     questionId: '001115'
   },
   {
@@ -854,15 +854,15 @@ const qBank = [
   {
     question:
         "I haven't turn on the computer yet",
-    answers: ["switch on", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "switch on",
+    answers: ["turn on", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "turn on",
     questionId: "001120"
   },
   {
     question:
         "Is the computer turn on?",
-    answers: ["switch on", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "switch on",
+    answers: ["turn on", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "turn on",
     questionId: "001121"
   },
   {
@@ -875,8 +875,8 @@ const qBank = [
   {
     question:
         "I need to switch on the light because it's getting really dark",
-    answers: ["Thinking ahead", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "Thinking ahead",
+    answers: ["switch on", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "switch on",
     questionId: "001123"
   },
   {
@@ -925,8 +925,8 @@ const qBank = [
   {
     question:
         "The music was so loud that I turned it down",
-    answers: ["turn down", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "turn down",
+    answers: ["turned it down", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "turned it down",
     questionId: "001130"
   },
   {
@@ -938,7 +938,7 @@ const qBank = [
   },
   {
     question:
-        "He said the he would never come back there",
+        "He said the he would never came back there",
     answers: ["came back", "Alan Sugar", "Donald Trump", "Bill Gates"],
     correct: "came back",
     questionId: "001132"
@@ -967,15 +967,15 @@ const qBank = [
   {
     question:
         "I'll call you back as soon as I get free",
-    answers: ["call back", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "call back",
+    answers: ["call you back", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "call you back",
     questionId: "001136"
   },
   {
     question:
         "I told her that I would call her back as soon as I got free",
-    answers: ["call back", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "call back",
+    answers: ["call her back", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "call her back",
     questionId: "001137"
   },
   {
@@ -995,8 +995,8 @@ const qBank = [
   {
     question:
         "Who brought him up",
-    answers: ["brought up", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "brought up",
+    answers: ["brought him up", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "brought him up",
     questionId: "001140"
   },
   {
@@ -1050,7 +1050,7 @@ const qBank = [
   },
   {
     question:
-        "I've never come across this expression before. It's completely new for me",
+        "I've never came across this expression before. It's completely new for me",
     answers: ["came across", "Alan Sugar", "Donald Trump", "Bill Gates"],
     correct: "came across",
     questionId: "001148"
@@ -1142,8 +1142,8 @@ const qBank = [
   {
     question:
         "I got into the taxi",
-    answers: ["get into", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "get into",
+    answers: ["got into", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "got into",
     questionId: "001161"
   },
   {
@@ -1247,8 +1247,8 @@ const qBank = [
   {
     question:
         "She was so angry that she hung up the phone",
-    answers: ["hang up", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "hang up",
+    answers: ["hung up", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "hung up",
     questionId: "001176"
   },
   {
@@ -1288,16 +1288,17 @@ const qBank = [
   },
   {
     question:
-        "He finally paid off the loan",
-    answers: ["pay off", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "pay off",
+        "He finally payed off the loan",
+    answers: ["payed off", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "payed off",
     questionId: "001182"
   },
   {
     question:
-        "He decided not to take a loan because he was really afraid that he would't be able to pay it off",
-    answers: ["pay off", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "pay off",
+        "He decided not to take a loan because he was " +
+        "really afraid that he wouldn't be able to pay it off",
+    answers: ["pay it off", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "pay it off",
     questionId: "001183"
   },
   {
@@ -1541,15 +1542,15 @@ const qBank = [
   {
     question:
         "I'll take care of it while he's away",
-    answers: ["is away", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "is away",
+    answers: ["he's away", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "he's away",
     questionId: "001218"
   },
   {
     question:
         "He said that he would take care of it while she's away",
-    answers: ["is away", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "is away",
+    answers: ["she's away", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "she's away",
     questionId: "001219"
   },
   {
@@ -1653,8 +1654,8 @@ const qBank = [
   {
     question:
         "Keep it up!",
-    answers: ["Keep up", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "Keep up",
+    answers: ["Keep it", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "Keep it",
     questionId: "001234"
   },
   {
@@ -1673,9 +1674,10 @@ const qBank = [
   },
   {
     question:
-        "I made up my mind to train much more intensively because I really wanted to make up for lost time",
-    answers: ["made up my mind/make up", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "made up my mind/make up",
+        "I made up my mind to train much more " +
+        "intensively because I really wanted to make up for lost time",
+    answers: ["made up my mind to", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "made up my mind to",
     questionId: "001237"
   },
   {
@@ -1694,7 +1696,7 @@ const qBank = [
   },
   {
     question:
-        "Come on/ let's go!",
+        "Come on ! let's go!",
     answers: ["Come on", "Alan Sugar", "Donald Trump", "Bill Gates"],
     correct: "Come on",
     questionId: "001240"
@@ -1730,8 +1732,8 @@ const qBank = [
   {
     question:
         "I have to say i'm really into it",
-    answers: ["'m into'", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "'m into'",
+    answers: ["i'm really into it", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "i'm really into it",
     questionId: "001245"
   },
   {
@@ -1765,22 +1767,23 @@ const qBank = [
   {
     question:
         "You'd better to write it down otherwise you'll forget it very easily",
-    answers: ["write down", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "write down",
+    answers: ["write it down", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "write it down",
     questionId: "001250"
   },
   {
     question:
-        "I'll write it down just in case. I can't rely on my memory because it often lets me down",
-    answers: ["let down", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "let down",
+        "I'll write it down just in case. " +
+        "I can't rely on my memory because it often lets me down",
+    answers: ["lets me down", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "lets me down",
     questionId: "001251"
   },
   {
     question:
         "He said that he had dropped out of college",
-    answers: ["drop out", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "drop out",
+    answers: ["dropped out", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "dropped out",
     questionId: "001252"
   },
   {
@@ -1800,8 +1803,8 @@ const qBank = [
   {
     question:
         "Please, hold the line. I'll put you through in a minute",
-    answers: ["put through", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "put through",
+    answers: ["put you through", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "put you through",
     questionId: "001255"
   },
   {
@@ -1884,8 +1887,8 @@ const qBank = [
   {
     question:
         "He's planing to focus more on his carrier",
-    answers: ["focus on", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "focus on",
+    answers: ["focus more on", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "focus more on",
     questionId: "001267"
   },
   {
@@ -2032,8 +2035,8 @@ const qBank = [
   {
     question:
         "To sum it didn't live up to my expectations at all",
-    answers: ["sum up", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "sum up",
+    answers: ["live up", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "live up",
     questionId: "001288"
   },
   {
@@ -2284,8 +2287,8 @@ const qBank = [
   {
     question:
         "Don't forget to log out before switching off the computer",
-    answers: ["logged out", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "logged out",
+    answers: ["log out", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "log out",
     questionId: "001323"
   },
   {
@@ -2522,8 +2525,8 @@ const qBank = [
   {
     question:
         "I haven't backed up these files yet but it's in my plans",
-    answers: ["back up", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "back up",
+    answers: ["backed up", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "backed up",
     questionId: "001357"
   },
   {
@@ -2669,8 +2672,8 @@ const qBank = [
   {
     question:
         "The teacher handed us out these materials before the seminar",
-    answers: ["handed out", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "handed out",
+    answers: ["handed us out", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "handed us out",
     questionId: "001378"
   },
   {
@@ -2704,8 +2707,8 @@ const qBank = [
   {
     question:
         "Can I try it on",
-    answers: ["try on", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "try on",
+    answers: ["try it on", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "try it on",
     questionId: "001383"
   },
   {
@@ -2802,8 +2805,8 @@ const qBank = [
   {
     question:
         "What time will you check in?",
-    answers: ["checked in", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "checked in",
+    answers: ["check in", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "check in",
     questionId: "001397"
   },
   {
@@ -2816,8 +2819,8 @@ const qBank = [
   {
     question:
         "Weight time will you check out?",
-    answers: ["checked out", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "checked out",
+    answers: ["check out", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "check out",
     questionId: "001399"
   },
   {
@@ -2830,8 +2833,8 @@ const qBank = [
   {
     question:
         "Put on the jacket or you can get cold!",
-    answers: ["put on", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "put on",
+    answers: ["Put on", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "Put on",
     questionId: "001401"
   },
   {
@@ -2907,8 +2910,8 @@ const qBank = [
   {
     question:
         "I set off earlier because I didn't want to get stuck in a traffic jam",
-    answers: ["stick to", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "stick to",
+    answers: ["stuck in", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "stuck in",
     questionId: "001412"
   },
   {
@@ -2963,15 +2966,15 @@ const qBank = [
   {
     question:
         "I don't really think that this crisis is over",
-    answers: ["all over", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "all over",
+    answers: ["is over", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "is over",
     questionId: "001420"
   },
   {
     question:
         "It's all over",
-    answers: ["all over", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "all over",
+    answers: ["'s all over", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "'s all over",
     questionId: "001421"
   },
   {
@@ -2991,8 +2994,8 @@ const qBank = [
   {
     question:
         "Look out ! It really dangerous",
-    answers: ["look out", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "look out",
+    answers: ["Look out", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "Look out",
     questionId: "001424"
   },
   {
@@ -3075,15 +3078,15 @@ const qBank = [
   {
     question:
         "If you don't need it, you can out it away",
-    answers: ["cut away", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "cut away",
+    answers: ["you can out", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "you can out",
     questionId: "001436"
   },
   {
     question:
         "I put it down to his laziness",
-    answers: ["put it to", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "put it to",
+    answers: ["put it down", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "put it down",
     questionId: "001437"
   },
   {
@@ -3103,22 +3106,22 @@ const qBank = [
   {
     question:
         "I come to the conclusion that it was done in vain",
-    answers: ["come to", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "come to",
+    answers: ["come to the conclusion", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "come to the conclusion",
     questionId: "001440"
   },
   {
     question:
-        "When will his book come out ",
-    answers: ["come through", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "come through",
+        "When will his book come out ?",
+    answers: ["come out", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "come out",
     questionId: "001441"
   },
   {
     question:
-        "This book has just come out",
-    answers: ["come through", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "come through",
+        "This magazine has just come out",
+    answers: ["come out", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "come out",
     questionId: "001442"
   },
   {
@@ -3201,8 +3204,8 @@ const qBank = [
   {
     question:
         "Some employees dress down on fridays",
-    answers: ["dressed down", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "dressed down",
+    answers: ["down on", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "down on",
     questionId: "001454"
   },
   {
@@ -3222,8 +3225,8 @@ const qBank = [
   {
     question:
         "Drop in at any time",
-    answers: ["drop in", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "drop in",
+    answers: ["Drop in", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "Drop in",
     questionId: "001457"
   },
   {
@@ -3235,16 +3238,16 @@ const qBank = [
   },
   {
     question:
-        "I bumped into him in a local shop",
-    answers: ["bumped into", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "bumped into",
+        "I bumped him into in a local shop",
+    answers: ["bumped him into", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "bumped him into",
     questionId: "001459"
   },
   {
     question:
         "I bumped him into on the way home",
-    answers: ["bumped into", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "bumped into",
+    answers: ["bumped him into", "Alan Sugar", "Donald Trump", "Bill Gates"],
+    correct: "bumped him into",
     questionId: "001460"
   },
   {
