@@ -45,7 +45,7 @@ const qBank = [
     question:
         "Why don't you ask her out?",
     answers: ["ask her out", "ask ", "ask for", "ask about"],
-    correct: "ask her put",
+    correct: "ask her out",
     questionId: "001006"
   },
   {
